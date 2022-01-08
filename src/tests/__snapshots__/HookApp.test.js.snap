@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <HookApp /> Must do render the component HookApp 1`] = `
+<Fragment>
+  <h1
+    className="text-primary"
+  >
+     Hola Mundo React with JavaScript 
+  </h1>
+</Fragment>
+`;
+
+exports[`Pruebas de <HookApp /> Must do to render the component HookApp 1`] = `
+<Fragment>
+  <h1
+    className="text-primary"
+  >
+     Hola Mundo React with JavaScript 
+  </h1>
+</Fragment>
+`;
