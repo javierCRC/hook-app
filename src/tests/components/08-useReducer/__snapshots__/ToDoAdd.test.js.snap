@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <ToDoAdd /> 1.Must do render the component ToDoAdd. 1`] = `
+<Fragment>
+  <h4>
+     Add ToDo 
+    <i
+      className="far fa-list-alt"
+    />
+     
+  </h4>
+  <hr />
+  <form
+    className="bg-light my-3 p-3 pt-lg-0 border rounded"
+    onSubmit={[Function]}
+  >
+    <h5
+      className="font-weight-bold text-center my-4 text-success"
+    >
+       Registry 
+      <i
+        className="fas fa-calendar-day"
+      />
+    </h5>
+    <div
+      className="form-group form-row"
+    >
+      <label
+        className="col-12 col-form-label"
+      >
+        Description:
+      </label>
+      <div
+        className="input-group col-12 col-md-10"
+      >
+        <div
+          className="input-group-prepend"
+        >
+          <span
+            className="input-group-text text-primary"
+          >
+            <i
+              className="fas fa-id-card"
+            />
+          </span>
+        </div>
+        <input
+          autoComplete="off"
+          className="form-control"
+          name="txtDescription"
+          onChange={[Function]}
+          placeholder="Whrite a new To Do"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      className="form-group form-row mb-0"
+    >
+      <div
+        className="col-auto"
+      >
+        <button
+          className="btn btn-primary btn-block"
+          type="submit"
+        >
+           Save 
+          <i
+            className="fas fa-save"
+          />
+        </button>
+      </div>
+    </div>
+  </form>
+</Fragment>
+`;
+
+exports[`Test of <ToDoAdd /> 1.Must do render the component ToDoAdd. 1`] = `
+<Fragment>
+  <h4>
+     Add ToDo 
+    <i
+      className="far fa-list-alt"
+    />
+     
+  </h4>
+  <hr />
+  <form
+    className="bg-light my-3 p-3 pt-lg-0 border rounded"
+    onSubmit={[Function]}
+  >
+    <h5
+      className="font-weight-bold text-center my-4 text-success"
+    >
+       Registry 
+      <i
+        className="fas fa-calendar-day"
+      />
+    </h5>
+    <div
+      className="form-group form-row"
+    >
+      <label
+        className="col-12 col-form-label"
+      >
+        Description:
+      </label>
+      <div
+        className="input-group col-12 col-md-10"
+      >
+        <div
+          className="input-group-prepend"
+        >
+          <span
+            className="input-group-text text-primary"
+          >
+            <i
+              className="fas fa-id-card"
+            />
+          </span>
+        </div>
+        <input
+          autoComplete="off"
+          className="form-control"
+          name="txtDescription"
+          onChange={[Function]}
+          placeholder="Whrite a new To Do"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      className="form-group form-row mb-0"
+    >
+      <div
+        className="col-auto"
+      >
+        <button
+          className="btn btn-primary btn-block"
+          type="submit"
+        >
+           Save 
+          <i
+            className="fas fa-save"
+          />
+        </button>
+      </div>
+    </div>
+  </form>
+</Fragment>
+`;

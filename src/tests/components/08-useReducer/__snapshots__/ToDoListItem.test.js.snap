@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <ToDoListItem /> 1.Must do render the component ToDoListItem. 1`] = `[MockFunction]`;
+
+exports[`Pruebas de <ToDoListItem > 1.Must do render the component ToDoListItem. 1`] = `[MockFunction]`;

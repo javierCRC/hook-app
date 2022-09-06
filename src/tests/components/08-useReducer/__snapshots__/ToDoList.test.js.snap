@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <ToDoList > 1.Must do render the component ToDoList. 1`] = `
+<ul>
+  <ToDoListItem
+    pF_f_handleClickDelete2={[MockFunction]}
+    pF_handleToggleTask2={[MockFunction]}
+    pIndex={0}
+    pToDo2={
+      Object {
+        "desc": "Learn React with Js",
+        "done": false,
+        "id": 1,
+      }
+    }
+  />
+  <ToDoListItem
+    pF_f_handleClickDelete2={[MockFunction]}
+    pF_handleToggleTask2={[MockFunction]}
+    pIndex={1}
+    pToDo2={
+      Object {
+        "desc": "Learn React with Ts",
+        "done": true,
+        "id": 2,
+      }
+    }
+  />
+</ul>
+`;
